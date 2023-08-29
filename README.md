@@ -1,1 +1,0 @@
-# Jenkins-Master-SonarQube-Project
